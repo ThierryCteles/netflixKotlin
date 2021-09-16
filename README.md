@@ -1,6 +1,6 @@
 # NetFlixKotlin
 
-## App feito no ultimo mês de Agosto (21) durante estudo no curso AndroidExpress do Tiago Aguiar
+## App feito no ultimo mês de Agosto (21) 
 
 
 ### Visando uma Cópia da Interface do Netflix, utilizando de uma Arquiterua MVC, o projeto é capaz de mostrar uma listagem de filmes carregados, usando Retrofit,
